@@ -11,6 +11,7 @@ class TTTBoard:
     board = array('i', [0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
     wState = array('i', [0, 0, 0, 0, 0, 0, 0, 0])
 
+    # Core Game Functions
     # Here, playerNum can be either -2 or 3     # D-Val
     def makeMove(self, playerNum, position):
         if position < 1 or position > 9:
@@ -41,6 +42,9 @@ class TTTBoard:
         if self.board[0] == 9:
             return (0, None)
         return (-1, None)
+
+    # Environment Related Functions
+    
 
     # Secondary Function
     def printBoard(self):
