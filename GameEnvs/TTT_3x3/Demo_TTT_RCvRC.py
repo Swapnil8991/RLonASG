@@ -8,17 +8,13 @@ if __name__ == '__main__':
 
     startTime = time()
 
+    b = TTTBoard()
+    emptyPositions = list(range(1, 10))
     playerCharToggler = cycle(['X', 'O'])               # D-Char
     playerNumToggler = cycle([3, -2])                   # D-Val
-
-    b = TTTBoard()
-    # b.printInfo()
-
-    emptyPositions = list(range(1, 10))
-    seed(urandom(100))
+    seed(urandom(128))
 
     while b.board[0] < 10:
-
         if b.board[0] > 4:
             status, wSindex = b.winnerCheck()
             if status == 0:
