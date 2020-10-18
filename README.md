@@ -7,16 +7,16 @@ This project comprises of abstract-strategy games which are to be played by a Ma
 
 ## Algorithms
 ```
-Temporal Difference (TD) Learning
-Q-Learning
+• Temporal Difference (TD) Learning
+• Q-Learning
 ```
 
 ## Requirements
 ```
-Python 3.4 or higher
-TensorFlow Library
-A Modern CPU capable of Running TensorFlow
-An NVIDIA GPU card with CUDA Compute Capability of 3.5 or higher.
+• Python 3.4 or higher
+• TensorFlow Library
+• A Modern CPU capable of Running TensorFlow
+• An NVIDIA GPU card with CUDA Compute Capability of 3.5 or higher.
 ```
 
 ## Usage
@@ -30,8 +30,8 @@ An NVIDIA GPU card with CUDA Compute Capability of 3.5 or higher.
 
 ## External References
 ```
-Sutton, Richard S. “Learning to Predict by the Methods of Temporal Differences.”
-Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. Method
+• Sutton, Richard S. “Learning to Predict by the Methods of Temporal Differences.”
+• Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. Method
 and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality
 Reduction
 ```
