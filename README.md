@@ -4,10 +4,10 @@
    This project comprises of abstract-strategy games which are to be played by a Machine Learning Agent, against itself and against a human player. Our approach involves the use and application of reinforcement machine learning where, the agent is supposed to gradually learn and play the game on its own without any prior knowledge of the game. 
 
 ## Algorithms
-* Temporal Difference (TD) Learning
+* __Temporal Difference (TD) Learning__
    Temporal difference learning refers to a class of model-free reinforcement learning methods which learn by bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.
 
-* Q-Learning
+* __Q-Learning__
    Q-learning is a model-free reinforcement learning algorithm to learn a policy telling an agent what action to take under what circumstances. It does not require a model of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations.
 
 ## Requirements
@@ -23,11 +23,11 @@
 	* __python Demo_TTT_HvH.py__
 	  > Here, two humans play against each other.
 	* __python Demo_TTT_RCvRC.py__
-	  > Here, computer play against itself by making random choices for a single instance.
+	  > Here, computer plays against itself by making random choices for a single instance.
 	* __python Demo_TTT_RCvRC_MultipleGames.py__
-	  > Here, computer play against itself by making random choices for multiple instances.
+	  > Here, computer plays against itself by making random choices for multiple instances.
 	* __python TTT_GenerateData.py &nbsp; no_of_games &nbsp; dataGenFlag (1|2) &nbsp; inpTrainFilename &nbsp; outTrainFilename__
-	  >    Generate the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win, 2 for recording O's win.
+	  >    Generates the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win, 2 for recording O's win.
 	* __python TTT_HvNN.py &nbsp; inpTrainFilename &nbsp; outTrainFilename__
 	  > Here, human plays against the Neural Network which has been trained upon the generated data from previous step.
 
