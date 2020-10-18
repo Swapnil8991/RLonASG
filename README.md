@@ -4,11 +4,9 @@
    This project comprises of abstract-strategy games which are to be played by a Machine Learning Agent, against itself and against a human player. Our approach involves the use and application of reinforcement machine learning where, the agent is supposed to gradually learn and play the game on its own without any prior knowledge of the game. 
 
 ## Algorithms
-* Temporal Difference (TD) Learning
-   Temporal difference learning refers to a class of model-free reinforcement learning methods which learn by bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.
+*   __Temporal Difference (TD) Learning__ refers to a class of model-free reinforcement learning methods which learn by bootstrapping from the current estimate of the value function. These methods sample from the environment, like Monte Carlo methods, and perform updates based on current estimates, like dynamic programming methods.
 
-* Q-Learning
-   Q-learning is a model-free reinforcement learning algorithm to learn a policy telling an agent what action to take under what circumstances. It does not require a model of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations.
+*   __Q-Learning__ is a model-free reinforcement learning algorithm to learn a policy telling an agent what action to take under what circumstances. It does not require a model of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations.
 
 ## Requirements
 
