@@ -32,6 +32,5 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 ## External References
 * Sutton, Richard S. __“Learning to Predict by the Methods of Temporal Differences.”__ 
-* Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. 
- __Method and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction.__
+*    Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger.__Method and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction.__
 
