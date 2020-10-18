@@ -1,11 +1,9 @@
 # RLonASG
 
 ## Description
-```
 This project comprises of abstract-strategy games which are to be played by a Machine Learning Agent, against itself and
 against a human player. Our approach involves the use and application of reinforcement machine learning where, the agent
 is supposed to gradually learn and play the game on its own without any prior knowledge of the game. 
-```
 
 ## Algorithms
 * Temporal Difference (TD) Learning
