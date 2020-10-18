@@ -19,24 +19,23 @@
 ## Usage
 * TTT_3x3_SC
 	* python Demo_TTT_HvH.py
-	> Here, two humans play against each other.
+		> Here, two humans play against each other.
 	* python Demo_TTT_RCvRC.py
-	> Here, computer play against itself by making random choices for a single instance.
+		> Here, computer play against itself by making random choices for a single instance.
 	* python Demo_TTT_RCvRC_MultipleGames.py
-	> Here, computer play against itself by making random choices for multiple instances.
-	* python Demo_TTT_RCvRC 
+		> Here, computer play against itself by making random choices for multiple instances.
 	* python TTT_GenerateData.py <no_of_games> <dataGenFlag (1|2)> <inpTrainFilename> <outTrainFilename>
-	>    Generate the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win, 2 for recording O's win.
+		>    Generate the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win, 2 for recording O's win.
 	* python TTT_HvNN.py <inpTrainFilename> <outTrainFilename>
-	> Here, human plays against the Neural Network which has been trained upon the generated data from previous step.
-	 
+		> Here, human plays against the Neural Network which has been trained upon the generated data from previous step.
+
 * TTT_3x3_VF
 	* python TTT_HvVF.py
-	> Here, the Varible function agent plays against a human player.
+		> Here, the Varible function agent plays against a human player.
  	* python TTT_RCvVF.py
- 	> Here, the Random Computer(random choices) plays against Variable function agent. 
+	 	> Here, the Random Computer(random choices) plays against Variable function agent. 
  	* python TTT_VFvVF.py
- 	> Here, two Variable function agents play against eacg other.
+ 		> Here, two Variable function agents play against eacg other.
 
 ## Screenshots
 ```
