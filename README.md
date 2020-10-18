@@ -19,7 +19,7 @@
 
 
 ## Usage
-* TTT_3x3_SC
+* __TTT_3x3_SC__
 	* __python Demo_TTT_HvH.py__
 	  > Here, two humans play against each other.
 	* __python Demo_TTT_RCvRC.py__
@@ -31,7 +31,7 @@
 	* __python TTT_HvNN.py &nbsp; inpTrainFilename &nbsp; outTrainFilename__
 	  > Here, human plays against the Neural Network which has been trained upon the generated data from previous step.
 
-* TTT_3x3_VF
+* __TTT_3x3_VF__
 	* __python TTT_HvVF.py__
 	  > Here, the Varible function agent plays against a human player.
  	* __python TTT_RCvVF.py__
