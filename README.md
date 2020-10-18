@@ -28,11 +28,12 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 ## Screenshots
 ```
+<img src=”image.jpg” width=”100">
 ```
 
 ## External References
 ```
-• Sutton, Richard S. “Learning to Predict by the Methods of Temporal Differences.”
-• Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. Method
-  and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction
+• Sutton, Richard S. *“Learning to Predict by the Methods of Temporal Differences.”*
+• Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. *Method
+  and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction.*
 ```
