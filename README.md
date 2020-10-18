@@ -9,16 +9,16 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 ## Algorithms
 ```
-• Temporal Difference (TD) Learning
-• Q-Learning
+* Temporal Difference (TD) Learning
+* Q-Learning
 ```
 
 ## Requirements
 ```
-• Python 3.4 or higher
-• TensorFlow Library
-• A Modern CPU capable of Running TensorFlow
-• An NVIDIA GPU card with CUDA Compute Capability of 3.5 or higher.
+* Python 3.4 or higher
+* TensorFlow Library
+* A Modern CPU capable of Running TensorFlow
+* An NVIDIA GPU card with CUDA Compute Capability of 3.5 or higher.
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 ## External References
 ```
-• Sutton, Richard S. "__Learning__ to Predict by the Methods of Temporal Differences__"
-• Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. __Method
-  and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction__.
+* Sutton, Richard S. “Learning to Predict by the Methods of Temporal Differences.”
+* Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. Method
+  and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction.
 ```
