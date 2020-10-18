@@ -26,9 +26,9 @@
 	  > Here, computer play against itself by making random choices for a single instance.
 	* python Demo_TTT_RCvRC_MultipleGames.py
 	  > Here, computer play against itself by making random choices for multiple instances.
-	* python TTT_GenerateData.py <no_of_games> <dataGenFlag (1|2)> <inpTrainFilename> <outTrainFilename>
+	* python TTT_GenerateData.py no_of_games dataGenFlag (1|2) inpTrainFilename outTrainFilename
 	  >    Generate the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win, 2 for recording O's win.
-	* python TTT_HvNN.py <inpTrainFilename> <outTrainFilename>
+	* python TTT_HvNN.py inpTrainFilename outTrainFilename
 	  > Here, human plays against the Neural Network which has been trained upon the generated data from previous step.
 
 * TTT_3x3_VF
