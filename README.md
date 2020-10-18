@@ -19,13 +19,16 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 
 ## Usage
-```
-
-```
+* python TTT_HvVF.py
+> A game where the Varible function agent plays against a human player.
+* python TTT_RCvVF.py
+> A game where Random Computer(random choices) plays against Variable function agent. 
+* python TTT_VFvVF.py
+>  A game where two Variable function agents play against eacg other.
 
 ## Screenshots
 ```
-![alt text](/pathToImage/icon48.png "Logo Title Text 1")
+![alt text](/pathToImage/icon48.png "Img Name")
 ```
 
 ## External References
