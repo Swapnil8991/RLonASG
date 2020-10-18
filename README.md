@@ -21,12 +21,12 @@
 	* python TTT_GenerateData.py <no_of_games> <dataGenFlag (1|2)> <NNInpFilename> <NNOutFilename>
 	>    Generate the data for the Neural Network to train upon dataGenFlag: 1 for recording X's win and 2 for recording O's win.  	
 * TTT_3x3_VF
- * python TTT_HvVF.py
- > A game where the Varible function agent plays against a human player.
- * python TTT_RCvVF.py
- > A game where Random Computer(random choices) plays against Variable function agent. 
- * python TTT_VFvVF.py
- >  A game where two Variable function agents play against eacg other.
+	* python TTT_HvVF.py
+	> A game where the Varible function agent plays against a human player.
+ 	* python TTT_RCvVF.py
+ 	> A game where Random Computer(random choices) plays against Variable function agent. 
+ 	* python TTT_VFvVF.py
+ 	>  A game where two Variable function agents play against eacg other.
 
 ## Screenshots
 ```
