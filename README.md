@@ -25,10 +25,12 @@ is supposed to gradually learn and play the game on its own without any prior kn
 
 ## Screenshots
 ```
-<img src=”image.jpg” width=”100">
+![alt text](/pathToImage/icon48.png "Logo Title Text 1")
 ```
 
 ## External References
 * Sutton, Richard S. __“Learning to Predict by the Methods of Temporal Differences.”__ 
 *    Rajarshi Das, Armonk, Gerald J. Tesauro, Croton-on-Hudson, Kilian Q. Weinberger. "__Method and Apparatus for improved Reward-Based Learning Using Nonlinear Dimensionality Reduction.__"
 
+## License
+The entire codebase is under __MIT License__
